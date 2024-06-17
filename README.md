@@ -29,6 +29,3 @@ A client-side application that interacts with the backend to display transaction
 - **Bar Chart**: Displays a bar chart of product price ranges for the selected month.
 - **Pie Chart**: Shows a pie chart of product categories and their counts for the selected month.
 
-## Deployment
-
-The project is deployed and accessible at [https://roxiler-backend-vijaykumars-projects.vercel.app](https://roxiler-backend-vijaykumars-projects.vercel.app), where you can explore all the functionalities directly.
