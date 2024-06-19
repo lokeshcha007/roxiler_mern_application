@@ -15,6 +15,7 @@ A server-side application using the MERN stack (MongoDB, Express, React, Node.js
 - **Pie Chart**: Generates data for a pie chart showing the distribution of product categories.
 - **Combined Data**: Fetches and combines data from multiple sources to give a comprehensive view.
 
+
 ## Frontend
 
 A client-side application that interacts with the backend to display transaction data in a user-friendly way. It includes features like tables and charts to visualize the data.
